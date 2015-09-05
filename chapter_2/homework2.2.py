@@ -1,10 +1,9 @@
 #!/usr/bin/python
-# -*- coding: UTF8 -*-
 
 import pymongo
 import sys
 
-# Homework 2.2 · Course M101P
+# Homework 2.2  Course M101P
 #
 # Write a program in the language of your choice that will remove the grade
 # of type "homework" with the lowest score for each student from the dataset
